@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/maxf/Documents/workspaces/skype_linux.jar" sourcepath="/home/maxf/Desktop/src/src/com.zip"/>
+	<classpathentry kind="lib" path="/home/maxf/Documents/workspaces/swt-M20070212-1330-gtk-linux-x86_64/swt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
